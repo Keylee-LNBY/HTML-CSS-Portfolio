@@ -49,6 +49,9 @@ Badges aren't _necessary_, per se, but they demonstrate street cred. Badges let 
 
 Guildelines for contribution from other developers. 
 The [Contributor Covenant](https://www.contributor-covenant.org/) 
+Background Image
+ "This pattern is downloaded from www.subtlepatterns.com 
+ If you need more, that's where to get'em."
 
 ## Tests
 
