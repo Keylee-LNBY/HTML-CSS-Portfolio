@@ -35,9 +35,9 @@ Photos
     -Portfolio Page: 
         -Hangman: Photo by sebastiaan stam on Unsplash 
         -RPG Game: Photo by Alex Chambers on Unsplash
-        -Trivia Game:
-        -Rutgers:
-        -Rock Paper Scissors:
+        -Trivia Game: Photo by Saulo Mohana on Unsplash
+        -Rutgers: Photo by AbsolutVision on Unsplash
+        -Rock Paper Scissors: Photo by Juan Gomez on Unsplash
 
 ## License
 
